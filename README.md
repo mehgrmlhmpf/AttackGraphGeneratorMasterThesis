@@ -1,4 +1,5 @@
-# MasterThesis
+# Simulation and Purple Teaming in Industrial Control System (ICS) Environments
+## Master Thesis - Jan Hoff
 
 This work shows the viability of automatically generated attack graphs that are used for adversary behavior execution in industrial control system environments. This viability is evaluated and confirmed with expert interviews about results of this thesis, generated attack graphs and an implemented prototype.
 
